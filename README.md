@@ -1,3 +1,9 @@
+<p align="center">
+	<img src="https://raw.githubusercontent.com/xHak1m/Metadata/main/docs/images/metasploit.png" width=500alt="Metasploit"/>
+</p>
+
+---
+
 # Metasploit
 
 This repository is a complete, beginner-to-advanced guide to the Metasploit Framework — one of the most powerful tools for ethical hacking and penetration testing.
